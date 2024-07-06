@@ -1,0 +1,27 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.container{
+    background-color:aqua;
+    display:flex;
+    justify-content:center;
+    flex-direction:row;
+    gap:15px;
+    padding:100px;
+    text-align:center;
+}
+.box1{
+    background-color:blue;
+}
+.box2{
+    background-color:blueviolet;
+}
+.box3{
+    background-color:brown;
+}
+.aa{
+    height:200px;
+    width:75%;
+}
